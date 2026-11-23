@@ -1,0 +1,12 @@
+*.gguf
+*.zip
+*.safetensors
+final_train.jsonl
+notes_*.jsonl
+gap_train.jsonl
+gap_gen.jsonl
+train.jsonl
+kaggle.json
+.venv/
+hari.venv/
+__pycache__/
