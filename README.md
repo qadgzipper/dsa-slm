@@ -4,7 +4,8 @@ Fine-tuned Qwen2.5-3B-Instruct that tutors data structures and personalizes answ
 ## What's here
 - Dataset pipeline scripts (extract, merge, coverage, personalization generator)
 - gap_seeds.jsonl and personalization_train.jsonl
-- app.py (Gradio chat app) and Modelfile (Ollama)
+- course content files (notes_chunks, notes_train, final_train)
+- final_train (final dataset)
 
 ## Not included
 Model weights (3.1 GB) and datasets built from course notes and LeetCode text.
